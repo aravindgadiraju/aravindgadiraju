@@ -14,7 +14,7 @@ I build and support data pipelines that move engineering and quality data out of
 
 **Analytics** — Power BI, DAX, Power Query, semantic modeling, star schema, row-level security, incremental refresh
 
-**Tools** — Microsoft SQL Server, Apache Trino, Git, GitLab, Jupyter
+**Tools** — Microsoft SQL Server, Apache Trino, Git, GitLab, Jupyter , Azure Devops
 
 **Working knowledge** — Azure Data Factory, Azure Key Vault
 
